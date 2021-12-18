@@ -1,0 +1,28 @@
+.bold{
+    font-weight: bold;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.subhead{
+    font-size: larger;
+    color: #acacac;
+}
+
+.fontcolor{
+    color: midnightblue;
+}
+
+.byufont{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.largefont{
+    font-size: larger;
+}
+
+.resumecolor{
+    color: #acacac;
+}
